@@ -1,6 +1,6 @@
 SELECT 
 	`user`.full_name AS usuario,
-    IF(
+  IF(
 		MAX(YEAR(played_date))  >= 2021,
       'Usuário ativo',
       'Usuário inativo'
