@@ -53,7 +53,7 @@ In this project, I was able to:
 
 1. Clone and enter this repository
 ```
-git clone git@github.com:ImVictorM/All-For-One.git && cd All-For-One
+git clone git@github.com:ImVictorM/One-For-All.git && cd One-For-All
 ```
 2. Install the dependencies
 ```
